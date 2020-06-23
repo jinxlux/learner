@@ -1,2 +1,3 @@
 # learner
-This is an BBS website based on php.
+### This is my first repository in the github.
+### Only for paracticing!
