@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is only a file
+=======
+this is only a file for testing
+>>>>>>> 114791ca453612e1f746663092ea5788239d4257
