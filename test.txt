@@ -1,3 +1,7 @@
 this is only a file for testing
+<<<<<<< HEAD
 edid in g
 
+=======
+edid in github ww
+>>>>>>> ff09f7e96457c13963dc7e4be7c6e93b33b32412
